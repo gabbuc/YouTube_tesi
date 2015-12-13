@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/youtube-v3r155lv1.18.0-rc"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/google-oauth-client-java6-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/google-oauth-client-jetty-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/org.mortbay.jetty.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/org.mortbay.jetty.util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriele/Desktop/YouTube API/postgresql-9.3-1103.jdbc3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
